@@ -1,6 +1,6 @@
 # spatial_transcriptomics_analysis_using_Seurat
 
-A introductory bioinformatics project implementing the Seurat spatial transcriptomics workflow, adapted from the Harvard Chan Bioinformatics Core (HBC) "[Introduction to DGE](https://hbctraining.github.io/Intro-to-spatial-transcriptomics/schedule/self-learning.html)" self-learning workshop materials.
+A introductory bioinformatics project implementing the Seurat spatial transcriptomics workflow, adapted from the Harvard Chan Bioinformatics Core (HBC) "[Introduction to Spatial Transcriptomics](https://hbctraining.github.io/Intro-to-spatial-transcriptomics/schedule/self-learning.html)" self-learning workshop materials.
 
 
 
