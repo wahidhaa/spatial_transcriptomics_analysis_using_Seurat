@@ -24,7 +24,6 @@ The `spatial_analysis_script.R` script is organized into the following sections:
 
 ## How to Run
  
-1. Create a new project.
-2. Download the spatial data into the project directory from [HBC training](https://hbctraining.github.io/Intro-to-spatial-transcriptomics/lessons/03_loading_spatial_data.html#set-up).
+1. Download the project directory from [HBC training](https://hbctraining.github.io/Intro-to-spatial-transcriptomics/lessons/03_loading_spatial_data.html#set-up).
 3. Source `spatial_analysis_script.R` and run it.
 4. Export generated plots to `outputs/` and results tables to `results/`.
