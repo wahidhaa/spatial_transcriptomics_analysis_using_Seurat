@@ -40,8 +40,10 @@ for data download instructions and the associated lesson pages. To reproduce
 the analysis locally, download the Space Ranger output folders
 (`P5CRC_cropped/`, `P5NAT_cropped/`), the single-cell reference dataset, and
 the workshop's pre-computed intermediate `.rds` checkpoints (used at several
-compute-intensive steps) into a local `data/` folder, along with an `figures/` folder for exported figures
-a `results/` folder for exported output tables.
+compute-intensive steps) into a local `data/` folder, along with an `figures/`
+folder for exported figures and a `results/` folder for exported output tables.
+The `sessionInfo/` folder include information about the versions of the packages
+and tools used in this project.
 
 ## Workflow summary:
 
