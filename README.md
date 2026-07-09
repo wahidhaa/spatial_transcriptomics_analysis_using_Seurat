@@ -24,8 +24,9 @@ domain sections.
 ## Repository files and folders
 1. README.md (this file)
 2. spatial_analysis_script.R (fully-annotated DESeq2 analysis script)
-4. figures
-5. results
+3. figures
+4. results
+5. sessionInfo
 
 This repository contains only the annotated analysis code, showcased as a
 worked-through example of the Visium HD spatial transcriptomics workflow. It
