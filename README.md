@@ -24,8 +24,8 @@ domain sections.
 ## Repository files and folders
 1. README.md (this file)
 2. spatial_analysis_script.R (fully-annotated DESeq2 analysis script)
-4. output (figures)
-5. results (results tables)
+4. figures
+5. results
 
 This repository contains only the annotated analysis code, showcased as a
 worked-through example of the Visium HD spatial transcriptomics workflow. It
@@ -39,7 +39,7 @@ for data download instructions and the associated lesson pages. To reproduce
 the analysis locally, download the Space Ranger output folders
 (`P5CRC_cropped/`, `P5NAT_cropped/`), the single-cell reference dataset, and
 the workshop's pre-computed intermediate `.rds` checkpoints (used at several
-compute-intensive steps) into a local `data/` folder, along with an `outputs/` folder for exported figures
+compute-intensive steps) into a local `data/` folder, along with an `figures/` folder for exported figures
 a `results/` folder for exported output tables.
 
 ## Workflow summary:
@@ -132,4 +132,4 @@ The `spatial_analysis_script.R` script is organized into the following sections:
    
 2. Download the project directory from [HBC training](https://hbctraining.github.io/Intro-to-spatial-transcriptomics/lessons/03_loading_spatial_data.html#set-up).
 3. Source `spatial_analysis_script.R` and run it.
-4. Export generated plots to `outputs/` and results tables to `results/`.
+4. Export generated plots to `figures/` and results tables to `results/`.
